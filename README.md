@@ -1,2 +1,2 @@
 # LuaThon
-LuaThon a
+LuaThon Soon
